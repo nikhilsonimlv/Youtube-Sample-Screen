@@ -1,5 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>Project Output</h1> 
+<p>Youtube Sample Screen</p>
+<img src="https://github.com/nikhilsonimlv/Youtube-Sample-Screen/blob/master/public/Sample.jpg"/>
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
